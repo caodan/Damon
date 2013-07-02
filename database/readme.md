@@ -1,6 +1,6 @@
-===============================================
-=== This floder use for store database file ===
-===============================================
+
+This floder use for store database file
+
 We are using MySQL database, please add a "lmt" user in you database user libary;
 Then import the localhost.sql file
 
@@ -17,4 +17,3 @@ Table Prefix wp_
 Wordpress Install Information
 Username admin
 Password hcomaster
-===============================================
